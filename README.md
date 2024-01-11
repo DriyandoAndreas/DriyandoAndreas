@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 Hi my name is Driyando Andreas.
 i am a software engineer work with more than two years experience.
 
--🖥 I'm currently working at Kamadeva Indonesia as web developer.
--📚 I'm currently learning developing mobile apps
+-🖥 I'm currently working at Kamadeva Indonesia as web developer. <br>
+-📚 I'm currently learning developing mobile apps.

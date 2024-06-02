@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Driyando Andreas.
-i am a software engineer work with more than 3 years experience.
 
 -🖥 I'm currently working at Kamadeva Indonesia as web developer. <br>
 -📚 I'm currently learning developing mobile apps using flutter.
